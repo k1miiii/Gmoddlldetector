@@ -1,0 +1,7 @@
+﻿  dllmain.cpp
+  Generating code
+  353 of 373 functions (94.6%) were compiled, the rest were copied from previous compilation.
+    198 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  dllinjector.vcxproj -> C:\Users\Kimi\Desktop\projectobfusscator\dllinjector\x64\Release\dllinjector.dll
