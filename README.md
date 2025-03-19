@@ -1,7 +1,7 @@
 # AntiCheat DLL with Module Signature & Manual Mapping Detection
 
 This project implements an anti-cheat DLL that combines two detection techniques:
-
+# ALL CODE IS WORK IN PROGRESS , IT ONLY DETECTS SIMPLE INJECTION NO MANUAL MAPPING
 <s>1. **Digital Signature Verification:**  
    Checks loaded modules against an allowed certificate serial number. Only modules signed with the approved certificate (e.g., serial number `267a74977c25c65a60d8e2150343f787`) pass the check.
 
