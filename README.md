@@ -2,7 +2,7 @@
 
 This project implements an anti-cheat DLL that combines two detection techniques:
 
-1. **Digital Signature Verification:**  
+<s>1. **Digital Signature Verification:**  
    Checks loaded modules against an allowed certificate serial number. Only modules signed with the approved certificate (e.g., serial number `267a74977c25c65a60d8e2150343f787`) pass the check.
 
 2. **Manual Mapping Detection:**  
@@ -76,7 +76,7 @@ This project implements an anti-cheat DLL that combines two detection techniques
   Memory scanning can yield false positives. It is recommended to refine the heuristics based on your application's context.
 
 - **Performance Impact:**  
-  Scanning the entire process memory can be resource-intensive. Adjust the scan frequency as necessary.
+  Scanning the entire process memory can be resource-intensive. Adjust the scan frequency as necessary.</s>
 
 ## License
 
