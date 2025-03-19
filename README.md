@@ -7,11 +7,8 @@ This project implements an anti-cheat DLL that combines two detection techniques
 
 2. **Manual Mapping Detection:**  
    Scans process memory for valid Portable Executable (PE) headers to detect modules injected via manual mapping that bypass traditional Windows loader APIs.
-<div align="center">
-  <hr style="width:40%; display:inline-block; margin: 0 10px;">
-  <strong>TEXT</strong>
-  <hr style="width:40%; display:inline-block; margin: 0 10px;">
-</div>
+--- **TEXT** ---
+
 ## Features
 
 - **Digital Signature Verification:**  
